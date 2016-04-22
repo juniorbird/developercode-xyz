@@ -1,0 +1,25 @@
+{
+  "name": "developercode-xyz",
+  "version": "0.1.0",
+  "description": "Make an image from your Gist, and share it on LinkedIn or a forum",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juniorbird/developercode-xyz.git"
+  },
+  "keywords": [
+    "blogging",
+    "sharing",
+    "github",
+    "gist"
+  ],
+  "author": "Wade Armstrong",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/juniorbird/developercode-xyz/issues"
+  },
+  "homepage": "https://github.com/juniorbird/developercode-xyz#readme"
+}
